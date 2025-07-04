@@ -25,11 +25,7 @@ Dataset:
 
 Make sure you have Python installed.
 
-1. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. Install all the required modules as mentioned in [requirements.txt](https://github.com/Arpita2119/Air-Quality-Data-Analysis/blob/main/requirements.txt)
 
 2. Run Streamlit:
 
@@ -37,7 +33,7 @@ Make sure you have Python installed.
     streamlit run air_quality_dashboard.py
     ```
 
----
+OR
 
 ## Streamlit Dashboard
 
