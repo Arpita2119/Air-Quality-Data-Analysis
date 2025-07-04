@@ -34,7 +34,7 @@ Make sure you have Python installed.
     ```
 Make sure that the dataset and .py file of Dashboard are in the same directory.
 
-####OR
+#### OR
 
 ## Streamlit Dashboard
 
