@@ -30,10 +30,11 @@ Make sure you have Python installed.
 2. Run Streamlit:
 
     ```bash
-    streamlit run air_quality_dashboard.py
+    streamlit run "Air Quality Dashboard.py"
     ```
+Make sure that the dataset and .py file of Dashboard are in the same directory.
 
-OR
+####OR
 
 ## Streamlit Dashboard
 
