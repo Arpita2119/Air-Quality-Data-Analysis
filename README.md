@@ -43,14 +43,4 @@ Make sure that the dataset and .py file of Dashboard are in the same directory.
 
 ---
 
-### Features
-
-✅ City selection dropdown  
-✅ Interactive line plots and bar charts  
-✅ Seasonal pollution analysis  
-✅ Health risk categorization  
-✅ COVID-19 lockdown impact analysis  
-✅ Time-series forecasting of PM2.5 levels
-
----
 
