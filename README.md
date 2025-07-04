@@ -39,15 +39,14 @@ Make sure you have Python installed.
 
 ---
 
-## 🌐 Live Demo
+## Streamlit Dashboard
 
-If deployed, the live dashboard is available at:
+[View the Air Quality Dashboard Here](https://air-quality-data-analysis-vkoqcygsdkcfhduww36grd.streamlit.app/)
 
-[🔗 Live Dashboard Link](YOUR-STREAMLIT-APP-URL)
 
 ---
 
-## ✨ Features
+### Features
 
 ✅ City selection dropdown  
 ✅ Interactive line plots and bar charts  
