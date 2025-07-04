@@ -3,6 +3,8 @@ This project analyses air quality trends across major Indian cities using PM2.5 
 
 It includes:
 
+[Open notebook in Colab](https://colab.research.google.com/github/Arpita2119/Air-Quality-Data-Analysis/blob/main/Air_Quality_Analysis.ipynb)
+
 - **Jupyter Notebook analysis** with data cleaning, trend analysis, statistical testing, and time-series forecasting.
 - An interactive **Streamlit Dashboard** allowing users to explore:
   - Trends of pollutants (PM2.5, PM10, NO, NO2)
